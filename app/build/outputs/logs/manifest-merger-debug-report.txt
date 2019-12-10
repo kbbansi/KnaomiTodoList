@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/7e49706f68e5f618f8958dc595258a99/appcompat-v7-23.4.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/d98298ce3f3d4dc85d9269758283feb9/animated-vector-drawable-23.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/7fef0afd6a0f6277c743816c1c292696/support-vector-drawable-23.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/2fa4665bee0ea8aa6d6c3c3c1dfc89db/support-v4-23.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/247f998e4bdaf38a6cc6f3ef395b6cd1/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:7:5-43:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/7e49706f68e5f618f8958dc595258a99/appcompat-v7-23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/7e49706f68e5f618f8958dc595258a99/appcompat-v7-23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/d98298ce3f3d4dc85d9269758283feb9/animated-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/d98298ce3f3d4dc85d9269758283feb9/animated-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/7fef0afd6a0f6277c743816c1c292696/support-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/7fef0afd6a0f6277c743816c1c292696/support-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/2fa4665bee0ea8aa6d6c3c3c1dfc89db/support-v4-23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/2fa4665bee0ea8aa6d6c3c3c1dfc89db/support-v4-23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/247f998e4bdaf38a6cc6f3ef395b6cd1/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/247f998e4bdaf38a6cc6f3ef395b6cd1/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:9:9-42
+	android:allowBackup
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.murach.tasklist.SplashScreenActivity
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:theme
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:12:56-90
+	android:name
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:12:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.murach.tasklist.TaskListActivity
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:19:9-21:20
+	android:name
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:19:19-51
+activity#com.murach.tasklist.AddEditActivity
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:22:9-53
+	android:name
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:22:19-50
+provider#com.murach.tasklist.TaskListProvider
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:24:9-27:39
+	android:authorities
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:26:13-63
+	android:exported
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:25:13-45
+receiver#com.murach.tasklist.AppWidgetTop3
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:29:9-42:20
+	android:label
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:31:13-57
+	android:name
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:30:13-42
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:32:13-34:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:33:17-84
+	android:name
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:33:25-81
+intent-filter#action:name:com.murach.tasklist.TASK_MODIFIED
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:35:13-37:29
+action#com.murach.tasklist.TASK_MODIFIED
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:36:25-73
+meta-data#android.appwidget.provider
+ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:39:13-41:64
+	android:resource
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:41:17-61
+	android:name
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml:40:17-58
+uses-sdk
+INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/7e49706f68e5f618f8958dc595258a99/appcompat-v7-23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/7e49706f68e5f618f8958dc595258a99/appcompat-v7-23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/d98298ce3f3d4dc85d9269758283feb9/animated-vector-drawable-23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/d98298ce3f3d4dc85d9269758283feb9/animated-vector-drawable-23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/7fef0afd6a0f6277c743816c1c292696/support-vector-drawable-23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/7fef0afd6a0f6277c743816c1c292696/support-vector-drawable-23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/2fa4665bee0ea8aa6d6c3c3c1dfc89db/support-v4-23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/2fa4665bee0ea8aa6d6c3c3c1dfc89db/support-v4-23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/247f998e4bdaf38a6cc6f3ef395b6cd1/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/247f998e4bdaf38a6cc6f3ef395b6cd1/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/kwabenatu/.gradle/caches/transforms-2/files-2.1/7e49706f68e5f618f8958dc595258a99/appcompat-v7-23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+		ADDED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kwabenatu/Desktop/Finals and Personal Enrichment/Career/mobileApps/Mobile Development Resources/android/book_apps/ch16_TaskList/app/src/main/AndroidManifest.xml
